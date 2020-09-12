@@ -1,4 +1,4 @@
-# Multiple_Lang_Trans
+# Multiple_Lang_Translator
 
 PHP library for talking to Google's Translate API.
 
