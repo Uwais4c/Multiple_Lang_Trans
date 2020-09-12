@@ -2,7 +2,7 @@
 
 PHP library for talking to Google's Translate API.
 
-You can change or add Languages at Source and Target Languages here..
+You can change or add Languages here.
 
 ```
 
